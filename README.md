@@ -29,7 +29,7 @@ Com essa Pokédex, você pode explorar um vasto universo de criaturas incríveis
 1. **Clone o repositório:** Faça um clone deste repositório para sua máquina.
 2. **Abra o index.html:** Abra o arquivo `index.html` no seu navegador favorito.
 3. **Explore o mundo Pokémon:** Comece a sua jornada e descubra todos os segredos da Pokédex!
-4. 
+
 **Aviso:**
 
 Essa Pokédex foi criada para fins de aprendizado e diversão. Não nos responsabilizamos por nenhum Pokémon que escape durante a sua jornada.
